@@ -940,3 +940,47 @@ Fri May 05 17:44:18 2023
 Fri May 05 17:44:28 2023
 Fri May 05 17:44:38 2023
 ```
+
+# Lab 4 - Django and Flask
+
+Django install
+```auto
+python3-django
+python3-djangorestframework
+python3-mysqldb
+mariadb-server
+mariadb-client
+apache2
+php
+php-mysql
+```
+
+MariaDB Config
+![maria_db_config](https://user-images.githubusercontent.com/98351372/236594309-1a391054-f5e4-4b49-b75d-55aadb3bab49.png)
+![maria_db_config](https://user-images.githubusercontent.com/98351372/236594313-cf568fe3-30b3-4880-b1fa-b8cf18158a2a.png)
+
+Stevens Project
+```auto
+Started a Django Project and started a Django App
+```
+
+Create MySQL Database
+![create_sql_database](https://user-images.githubusercontent.com/98351372/236594401-120ac53a-1af2-4657-9647-8ee6bbdd2931.png)
+
+Edit settings.py
+![settings_dot_py](https://user-images.githubusercontent.com/98351372/236594419-921bf42d-3023-4270-bc97-0df36afc380e.png)
+
+Copy Files From IOT
+![copying_files](https://user-images.githubusercontent.com/98351372/236594435-218ff5ff-1684-4e97-a323-da955091aecc.png)
+![copying_static_files](https://user-images.githubusercontent.com/98351372/236594437-b1f25298-525c-4ce2-b9fb-670f988b9e35.png)
+
+Make Migrations
+![makemigrations](https://user-images.githubusercontent.com/98351372/236594455-23e1e5ac-f2db-4b6d-a0f6-b5c1a04a21ac.png)
+
+Adding Database Entry
+![adding_to_database](https://user-images.githubusercontent.com/98351372/236594467-30e93d39-f6d0-482d-9c99-18e832bd6f1c.png)
+
+Final Site
+![final_website](https://user-images.githubusercontent.com/98351372/236594474-126324f4-01b5-4c88-9bf7-e6f978315318.png)
+
+
