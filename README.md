@@ -1036,3 +1036,23 @@ Pub and Sub CPU Info
 ![pub_cpu](https://user-images.githubusercontent.com/98351372/236636487-3e300b1b-62be-4940-9bf3-4bf7b98a16fb.png)
 ![sub_cpu](https://user-images.githubusercontent.com/98351372/236636502-1b38de5f-c66f-489f-812b-17f6169bb29a.png)
 
+# Lab 6 — Node.js and Pystache
+
+http.js
+
+![http_js](https://user-images.githubusercontent.com/98351372/236640163-9d75a970-d8dc-4371-bf4c-171620985048.png)
+![http_js_cli_output](https://user-images.githubusercontent.com/98351372/236640182-ebbd66ac-1831-4aba-a9a3-22f5257ca338.png)
+
+hello.js
+
+![hello_world](https://user-images.githubusercontent.com/98351372/236640199-43f403da-42ab-4493-aaf2-65de8bf97a31.png)
+![hello_js](https://user-images.githubusercontent.com/98351372/236640210-f8e19e0b-8cc5-49f9-a3b2-2392f83c3589.png)
+
+hello-world.js
+
+![hello_world](https://user-images.githubusercontent.com/98351372/236640231-b967d42b-0d79-47ed-8d5a-6c4fd4d56a23.png)
+![hello_world_js](https://user-images.githubusercontent.com/98351372/236640234-a3da81d2-0516-4ad8-9bc0-743f0c0c54b0.png)
+
+say_hello.py
+![say_hello](https://user-images.githubusercontent.com/98351372/236640247-6eaf8ca9-7f3c-42c8-8536-ff94a5f9c026.png)
+
