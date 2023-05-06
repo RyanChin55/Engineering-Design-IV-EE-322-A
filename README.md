@@ -1056,3 +1056,6 @@ hello-world.js
 say_hello.py
 ![say_hello](https://user-images.githubusercontent.com/98351372/236640247-6eaf8ca9-7f3c-42c8-8536-ff94a5f9c026.png)
 
+# Lab 9 - Yang
+Installed Pyang and PlantUML in a virtual env on my pi, did the conversions.
+![intrusiondetection](https://user-images.githubusercontent.com/98351372/236645505-5489e91b-c701-416f-8b4c-c9f4f54d196d.png)
