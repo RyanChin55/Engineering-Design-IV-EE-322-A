@@ -1000,6 +1000,7 @@ Django Setup
 Final Site CPU
 ![cpu_site](https://user-images.githubusercontent.com/98351372/236594833-55c029dd-e37a-4ac8-bcff-a1a39bed2832.png)
 
+
 Flask Hello World
 
 ![flask_hello_world_cli](https://user-images.githubusercontent.com/98351372/236594854-35b9fa49-fda7-4436-8df5-c6111f32181b.png)
