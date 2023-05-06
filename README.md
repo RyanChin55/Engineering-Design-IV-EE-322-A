@@ -989,6 +989,7 @@ Initial CLI Setup
 ![mycpu_initial_setup](https://user-images.githubusercontent.com/98351372/236594629-f71aee0b-9c33-4c0f-b9ce-8eaca37b31c1.png)
 
 Finishing CLI Setup
+
 ![q1](https://user-images.githubusercontent.com/98351372/236594767-74b2097c-034a-410f-96f9-ab23dce553ea.png)
 
 Django Setup
