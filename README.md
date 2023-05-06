@@ -1013,4 +1013,26 @@ WordPress / Apache
 ![wordpress_dashboard](https://user-images.githubusercontent.com/98351372/236594902-56e67c6a-3b7a-4a48-a41b-7442c2d05761.png)
 ![blog_site](https://user-images.githubusercontent.com/98351372/236594909-977b2394-be5a-4dca-ae4f-eca09b444f7b.png)
 
+# Lab 5 - Paho-MQTT
+# Mosquitto
+Mosquitto Setup
+![mosquitto_service](https://user-images.githubusercontent.com/98351372/236636401-1ac3f27b-0440-4a53-bff2-6a042f49c3c6.png)
+![mosquitto_sub](https://user-images.githubusercontent.com/98351372/236636405-e56e8425-13da-4950-90a2-0dd1da884588.png)
+![netstat_output](https://user-images.githubusercontent.com/98351372/236636417-57c62fec-68d1-430d-8a6c-792aa1bbf768.png)
+
+Mosquitto Publish and Subscribe
+![mosquitto_pub](https://user-images.githubusercontent.com/98351372/236636432-6b5cf942-a63a-4083-88ee-026d1cc63a60.png)
+![mosquitto_sub_test_topic](https://user-images.githubusercontent.com/98351372/236636438-6e78a348-e117-40e3-98ac-0fe4d997d585.png)
+
+Paho - Pub and Sub Single
+![paho_pub_single](https://user-images.githubusercontent.com/98351372/236636454-d95b3570-0c19-4d44-87fa-dcdf8641200b.png)
+![paho_sub_single](https://user-images.githubusercontent.com/98351372/236636459-10f1002f-b9a1-41f6-ac8c-6641d1bfeb4f.png)
+
+Pub and Sub Multiple
+![paho_pub_multiple](https://user-images.githubusercontent.com/98351372/236636471-f2c676d0-f07b-49ab-98ee-7afcfe0f59f9.png)
+![paho_sub_multiple](https://user-images.githubusercontent.com/98351372/236636473-4358623e-330f-4734-8ff9-3d015dd89f21.png)
+
+Pub and Sub CPU Info
+![pub_cpu](https://user-images.githubusercontent.com/98351372/236636487-3e300b1b-62be-4940-9bf3-4bf7b98a16fb.png)
+![sub_cpu](https://user-images.githubusercontent.com/98351372/236636502-1b38de5f-c66f-489f-812b-17f6169bb29a.png)
 
