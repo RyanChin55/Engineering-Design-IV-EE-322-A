@@ -1001,10 +1001,9 @@ Final Site CPU
 ![cpu_site](https://user-images.githubusercontent.com/98351372/236594833-55c029dd-e37a-4ac8-bcff-a1a39bed2832.png)
 
 Flask Hello World
-```auto
+
 ![flask_hello_world_cli](https://user-images.githubusercontent.com/98351372/236594854-35b9fa49-fda7-4436-8df5-c6111f32181b.png)
 ![flask_hello_world](https://user-images.githubusercontent.com/98351372/236594861-2453054e-4505-4e9f-8097-f1c53a96cb43.png)
-```
 
 WordPress / Apache
 ![default_debian_apache_page](https://user-images.githubusercontent.com/98351372/236594890-cbadb63b-2fb1-45fb-801c-c9289cffa9c6.png)
