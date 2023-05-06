@@ -983,4 +983,32 @@ Adding Database Entry
 Final Site
 ![final_website](https://user-images.githubusercontent.com/98351372/236594474-126324f4-01b5-4c88-9bf7-e6f978315318.png)
 
+My CPU Project
+
+Initial CLI Setup
+![mycpu_initial_setup](https://user-images.githubusercontent.com/98351372/236594629-f71aee0b-9c33-4c0f-b9ce-8eaca37b31c1.png)
+
+Finishing CLI Setup
+![q1](https://user-images.githubusercontent.com/98351372/236594767-74b2097c-034a-410f-96f9-ab23dce553ea.png)
+
+Django Setup
+![creating_stevens_entry](https://user-images.githubusercontent.com/98351372/236594787-a70f7e24-1198-4b03-bc36-ed03ddf09aa7.png)
+![dt_list](https://user-images.githubusercontent.com/98351372/236594799-53f72b26-1dab-4c58-8964-26f98e1500f2.png)
+![cpu_list](https://user-images.githubusercontent.com/98351372/236594807-687813f4-900f-423b-8ce1-a2095709847a.png)
+![mem_list](https://user-images.githubusercontent.com/98351372/236594810-cec32d92-3117-48d6-9f37-bc00cb89b317.png)
+
+Final Site CPU
+![cpu_site](https://user-images.githubusercontent.com/98351372/236594833-55c029dd-e37a-4ac8-bcff-a1a39bed2832.png)
+
+Flask Hello World
+![flask_hello_world_cli](https://user-images.githubusercontent.com/98351372/236594854-35b9fa49-fda7-4436-8df5-c6111f32181b.png)
+![flask_hello_world](https://user-images.githubusercontent.com/98351372/236594861-2453054e-4505-4e9f-8097-f1c53a96cb43.png)
+
+WordPress / Apache
+![default_debian_apache_page](https://user-images.githubusercontent.com/98351372/236594890-cbadb63b-2fb1-45fb-801c-c9289cffa9c6.png)
+![index_php](https://user-images.githubusercontent.com/98351372/236594894-10b94703-5b90-4c50-b1ab-88a94dc0fe35.png)
+![wordpress_config](https://user-images.githubusercontent.com/98351372/236594900-fb8d4080-3c50-442f-86f3-ef3b32ba08b2.png)
+![wordpress_dashboard](https://user-images.githubusercontent.com/98351372/236594902-56e67c6a-3b7a-4a48-a41b-7442c2d05761.png)
+![blog_site](https://user-images.githubusercontent.com/98351372/236594909-977b2394-be5a-4dca-ae4f-eca09b444f7b.png)
+
 
